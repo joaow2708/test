@@ -18,3 +18,5 @@ print('Exponenciação', exponenciacao)
 
 modulo = 55 % 2 # resto da divisão
 print('Módulo', modulo)
+
+print('eu sou lindo')
